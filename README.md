@@ -10,5 +10,4 @@
 🔺Upgrade de versão de oracle database
 🔺Upgrade de versão de Microsoft SQL Server
 
-
-https://www.meme-arsenal.com/memes/c3b18102180a901701fe9948578e68a1.jpg
+![image](https://user-images.githubusercontent.com/67348204/226791882-5d83e795-fa22-481b-abc3-088c4d241060.png)
