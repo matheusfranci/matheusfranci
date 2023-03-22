@@ -1,7 +1,7 @@
 👋 Salve, salve pessoal, me chamo matheus e bem vindo ao meu perfil aqui no Github
 
-💣 * Minhas principais habilidades são: 
-💻 * Administração de banco de dados
+💣 \n Minhas principais habilidades são: 
+💻 \n Administração de banco de dados
 🖥 * Sustentação de ambientes de banco
 🔎Monitoramento de servidores e banco de dados
 💡Criação e manutenção de rotinas
