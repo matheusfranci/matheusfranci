@@ -10,11 +10,4 @@
 🔺Upgrade de versão de oracle database
 🔺Upgrade de versão de Microsoft SQL Server
 
-
- Experiência nos seguintes SGBD's:
- ![image](https://user-images.githubusercontent.com/67348204/226790351-5212e8ef-8474-453b-8bbf-75cc96e90423.png) ![image](https://user-images.githubusercontent.com/67348204/226791151-d145f455-8977-4eb0-9d55-d7990f381fe8.png)
- ![image](https://user-images.githubusercontent.com/67348204/226791038-ae03bafc-c157-4634-a3f9-798b0d88f3d1.png)
-
-
-
- 
+![image](https://user-images.githubusercontent.com/67348204/226791265-f5576a95-c96d-438f-9960-ce2f8deb11cd.png)
