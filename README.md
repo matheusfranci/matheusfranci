@@ -14,4 +14,6 @@
 
 
 <h2>Certificações</h2>
-- AI-900: [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/326f469c-efae-4812-9311-ebe9997a8a07)
+
+- AI-900 [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/326f469c-efae-4812-9311-ebe9997a8a07)
+- PL-900 [Microsoft Power Platform Fundamentals](https://www.credly.com/badges/5af8391e-fbfa-4ebb-8269-9c5700234b77/public_url)
