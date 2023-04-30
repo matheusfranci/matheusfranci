@@ -2,10 +2,11 @@
 <img src="https://github.com/dirceuresende/dirceuresende/raw/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
 
 <h1>👋 Matheus Francisco </h1>
+
 **Database administrator and Data Analyst**
 
-1. 💣Minhas principais habilidades são:
-2. 💻Administração de banco de dados
+- 💣Minhas principais habilidades são:
+- 💻Administração de banco de dados
 - 🖥Sustentação de ambientes de banco
 - 🔎Monitoramento de servidores e banco de dados
 - 💡Criação e manutenção de rotinas
