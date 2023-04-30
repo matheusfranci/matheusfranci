@@ -10,3 +10,6 @@ Database administrator and Data Analyst
 * 💾Migração de bancos on premises para cloud
 * 🔺Upgrade de versão de oracle database
 * 🔺Upgrade de versão de Microsoft SQL Server
+
+Certificações
+https://www.4biosacademy.com.br/files/thumbs/block_2658-badge-power-bi-350x350.jpg?v=1645823197
