@@ -3,8 +3,8 @@
 
 <h1>👋 Matheus Francisco </h1>
 __Database administrator and Data Analyst__                                                                                                                                                                                                                 
-* 💣Minhas principais habilidades são: 
-* 💻Administração de banco de dados
+1. 💣Minhas principais habilidades são: 
+2. 💻Administração de banco de dados
 - 🖥Sustentação de ambientes de banco
 - 🔎Monitoramento de servidores e banco de dados            
 - 💡Criação e manutenção de rotinas
