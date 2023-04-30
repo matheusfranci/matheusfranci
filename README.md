@@ -5,12 +5,13 @@
 
 **Database administrator and Data Analyst**
 
-- 💣Trabalho na [Orion Consultoria](https://orionconsultoria.com.br)
-- 💻Administração de banco de dados
-- 🖥Sustentação de ambientes de banco
-- 🔎Monitoramento de servidores e banco de dados
-- 💡Criação e manutenção de rotinas
-- 🧬Tuning de infra e parâmetros
-- 💾Migração de bancos on premises para cloud
-- 🔺Upgrade de versão de oracle database
-- 🔺Upgrade de versão de Microsoft SQL Server
+- 💣 Trabalho na [Orion Consultoria](https://orionconsultoria.com.br)
+- 🤓 Bacharelando em engenharia do software (segunda graduação)
+- 🤓 Pós-graduado em administração de banco de dados e BI
+- ✅ Conhecimento em oracle
+- ✅ Conhecimento em Microsoft SQL Server
+- ✅ Conhecimento em PostgreSQL
+
+
+<h2>Certificações</h2>
+- AI-900: [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/326f469c-efae-4812-9311-ebe9997a8a07)
