@@ -5,7 +5,7 @@
 
 **Database administrator and Data Analyst**
 
-- 💣Minhas principais habilidades são:
+- 💣Trabalho na Orion Consultoria https://orionconsultoria.com.br
 - 💻Administração de banco de dados
 - 🖥Sustentação de ambientes de banco
 - 🔎Monitoramento de servidores e banco de dados
