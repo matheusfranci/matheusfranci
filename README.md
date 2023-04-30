@@ -12,4 +12,5 @@ Database administrator and Data Analyst
 * 🔺Upgrade de versão de Microsoft SQL Server
 
 Certificações
-https://www.4biosacademy.com.br/files/thumbs/block_2658-badge-power-bi-350x350.jpg?v=1645823197
+![image](https://user-images.githubusercontent.com/67348204/235377204-1af3957c-8341-4337-9746-db3a4290fe22.png)
+
