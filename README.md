@@ -17,3 +17,6 @@
 
 - AI-900 [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/326f469c-efae-4812-9311-ebe9997a8a07)
 - PL-900 [Microsoft Power Platform Fundamentals](https://www.credly.com/badges/5af8391e-fbfa-4ebb-8269-9c5700234b77/public_url)
+- AZ-900 [Microsoft Azure Fundamentals](https://www.credly.com/badges/38b63a3a-b55a-49a2-96e0-dbbf56b79d5f)
+- DP-900 [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/b4e60575-dafb-42fc-b501-703835580b65)
+- PL-300 [Power BI Data Analyst Associate](https://www.credly.com/badges/4a9459b4-ac73-4298-a87f-29afa2205a24)
