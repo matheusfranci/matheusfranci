@@ -14,6 +14,8 @@
 
 
 <h2>Certificações</h2>
+<img src="https://user-images.githubusercontent.com/67348204/235379724-4578a774-4121-4af5-9e5c-019355d3d8df.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
+
 
 - PL-300 [Power BI Data Analyst Associate](https://www.credly.com/badges/4a9459b4-ac73-4298-a87f-29afa2205a24)
 - AZ-900 [Microsoft Azure Fundamentals](https://www.credly.com/badges/38b63a3a-b55a-49a2-96e0-dbbf56b79d5f)
