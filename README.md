@@ -2,7 +2,7 @@
 Database administrator and Data Analyst
 
 * 💣Minhas principais habilidades são: 
-💻Administração de banco de dados
+* 💻Administração de banco de dados
 🖥Sustentação de ambientes de banco
 🔎Monitoramento de servidores e banco de dados
 💡Criação e manutenção de rotinas
