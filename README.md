@@ -18,7 +18,7 @@
 
 
 - PL-300 [Power BI Data Analyst Associate](https://www.credly.com/badges/4a9459b4-ac73-4298-a87f-29afa2205a24)
-- DP-300 [Azure Database Administrator Associate](https://www.credly.com/earner/earned/badge/806bb37e-3293-4d9b-a6e0-7bba1de1b36b)
+- DP-300 [Azure Database Administrator Associate](https://www.credly.com/badges/806bb37e-3293-4d9b-a6e0-7bba1de1b36b/public_url)
 - AZ-900 [Microsoft Azure Fundamentals](https://www.credly.com/badges/38b63a3a-b55a-49a2-96e0-dbbf56b79d5f)
 - DP-900 [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/b4e60575-dafb-42fc-b501-703835580b65)
 - AI-900 [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/326f469c-efae-4812-9311-ebe9997a8a07)
