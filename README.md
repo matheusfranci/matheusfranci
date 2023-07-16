@@ -25,3 +25,4 @@
 - PL-900 [Microsoft Power Platform Fundamentals](https://www.credly.com/badges/5af8391e-fbfa-4ebb-8269-9c5700234b77/public_url)
 - Oracle Cloud Data Management 2022 [Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F93E3C2C9B1930CAEDEE797824E229F326A509AD69F24A21193C5CAF251C517)
 - Oracle Cloud Infrastructure 2022 [Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1CACA29A72E8F6F9C4736792E83D919ED6FB8D0CBF4AC5CE7837A0345E370018)
+- Oracle Autonomous Database Cloud 2023 Professional [Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B46D563C14232FC1F1E955C5ADB433F09F3A65999B4E9028272849019D1F2D6)
