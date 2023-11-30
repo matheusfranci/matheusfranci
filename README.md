@@ -5,7 +5,7 @@
 
 **Database administrator and Data Analyst**
 
-- 💣 Trabalho na [Orion Consultoria](https://orionconsultoria.com.br)
+- 💣 Trabalho na [cnseg](https://cnseg.org.br/)
 - 🤓 Bacharelando em engenharia do software (segunda graduação)
 - 🤓 Pós-graduado em administração de banco de dados e BI
 - ✅ Conhecimento em Oracle
