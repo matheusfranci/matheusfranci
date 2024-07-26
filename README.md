@@ -19,7 +19,7 @@
 
 
 - PL-300 [Power BI Data Analyst Associate](https://learn.microsoft.com/pt-br/users/matheusfrancisco-0785/credentials/ea2f53f51762949?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- DP-300 [Azure Database Administrator Associate](https://www.credly.com/badges/806bb37e-3293-4d9b-a6e0-7bba1de1b36b/public_url)
+- DP-300 [Azure Database Administrator Associate](https://learn.microsoft.com/pt-br/users/matheusfrancisco-0785/credentials/8cd9e8cc13760c13?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - AZ-900 [Microsoft Azure Fundamentals](https://www.credly.com/badges/38b63a3a-b55a-49a2-96e0-dbbf56b79d5f)
 - DP-900 [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/b4e60575-dafb-42fc-b501-703835580b65)
 - AI-900 [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/326f469c-efae-4812-9311-ebe9997a8a07)
