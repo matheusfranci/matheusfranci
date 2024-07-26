@@ -7,10 +7,11 @@
 
 - 💣 Trabalho na [cnseg](https://cnseg.org.br/)
 - 🤓 Bacharelando em engenharia do software (segunda graduação)
-- 🤓 Pós-graduado em administração de banco de dados e BI
+- 🤓 Pós-graduando em DevOps
 - ✅ Conhecimento em Oracle
 - ✅ Conhecimento em Microsoft SQL Server
 - ✅ Conhecimento em PostgreSQL
+- ✅ Conhecimento em MongoDB
 
 
 <h2>🎯Certificações</h2>
