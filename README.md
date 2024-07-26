@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/67348204/235379724-4578a774-4121-4af5-9e5c-019355d3d8df.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
 
 
-- PL-300 [Power BI Data Analyst Associate](https://www.credly.com/badges/4a9459b4-ac73-4298-a87f-29afa2205a24)
+- PL-300 [https://learn.microsoft.com/pt-br/users/matheusfrancisco-0785/credentials/ea2f53f51762949?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - DP-300 [Azure Database Administrator Associate](https://www.credly.com/badges/806bb37e-3293-4d9b-a6e0-7bba1de1b36b/public_url)
 - AZ-900 [Microsoft Azure Fundamentals](https://www.credly.com/badges/38b63a3a-b55a-49a2-96e0-dbbf56b79d5f)
 - DP-900 [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/b4e60575-dafb-42fc-b501-703835580b65)
