@@ -11,7 +11,7 @@
 - ✅ Conhecimento em Oracle
 - ✅ Conhecimento em Microsoft SQL Server
 - ✅ Conhecimento em PostgreSQL
-- ✅ Conhecimento em MongoDB
+- ✅ Conhecimento em MySQL
 
 
 <h2>🎯Certificações</h2>
