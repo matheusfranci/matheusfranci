@@ -3,7 +3,7 @@
 
 <h1>👋 Matheus Francisco </h1>
 
-**Database administrator and Data Analyst**
+**Database administrator**
 
 - 💣 Trabalho na [cnseg](https://cnseg.org.br/)
 - 🤓 Bacharelando em engenharia do software (segunda graduação)
