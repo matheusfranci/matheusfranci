@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"                      height="55" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"              height="55" alt="postgresql logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.iconscout.com/icon/free/png-512/free-mysql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-3030165.png?f=webp&w=256)"              height="55" alt="MySQL logo"  />
+  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/mysql/mysql-official.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/mysql/index.html&backText=Return+to+VectorLogoZone"              height="55" alt="MySQL logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"                        height="55" alt="azure logo"  />
   
 </div>
