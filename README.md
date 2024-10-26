@@ -28,6 +28,18 @@
 | 1Z0-1085-24 | [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5B19F852DD835A1EB0F31BE3015CF1BDF21EE91DA18021D4F96629BA3FE1E721) | Oracle |
 | 1Z0-931-23 | [Oracle Autonomous Database Cloud 2023 Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B46D563C14232FC1F1E955C5ADB433F09F3A65999B4E9028272849019D1F2D6) | Oracle |
 
-- [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F93E3C2C9B1930CAEDEE797824E229F326A509AD69F24A21193C5CAF251C517)
-- [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5B19F852DD835A1EB0F31BE3015CF1BDF21EE91DA18021D4F96629BA3FE1E721)
-- [Oracle Autonomous Database Cloud 2023 Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B46D563C14232FC1F1E955C5ADB433F09F3A65999B4E9028272849019D1F2D6)
+
+## Minhas Tech Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"                  height="55" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"                      height="55" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"                        height="55" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"                      height="55" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"              height="55" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"                      height="55" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"                        height="55" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"                    height="55" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"                        height="55" alt="putty logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"      height="55" alt="putty logo" />
+</div>
