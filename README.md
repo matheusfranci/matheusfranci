@@ -15,7 +15,7 @@
 
 
 <h2>🎯Certificações</h2>
-<img src="https://user-images.githubusercontent.com/67348204/235379724-4578a774-4121-4af5-9e5c-019355d3d8df.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
+<img src="https://user-images.githubusercontent.com/67348204/235379724-4578a774-4121-4af5-9e5c-019355d3d8df.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode" />
 
 | CÓDIGO        | DESCRIÇÃO                                                                                                                                                                                                                      | PROVEDOR  |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
