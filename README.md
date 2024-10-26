@@ -38,5 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"              height="55" alt="postgresql logo"  />
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg"              height="70" width="80" alt="MySQL logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"                        height="55" alt="azure logo"  />
+  <img src="https://github.com/user-attachments/assets/44c18a37-1f9b-4439-89da-cdc9f51a45e7"                        height="55" alt="AWS logo"  />
+
+
   
 </div>
