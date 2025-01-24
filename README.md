@@ -5,12 +5,9 @@
 
 **Database administrator**
 
-- 💣 Trabalho na [cnseg](https://cnseg.org.br/)
-- 🤓 Bacharelando em engenharia do software (segunda graduação)
-- 🤓 Pós-graduando em DevOps
+- 💣 Trabalho na [Sulamérica](https://portal.sulamericaseguros.com.br/home.htm)
 - ✅ Conhecimento em Oracle
 - ✅ Conhecimento em Microsoft SQL Server
-- ✅ Conhecimento em PostgreSQL
 - ✅ Conhecimento em MySQL
 
 
@@ -37,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"                        height="55" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"                      height="55" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"              height="55" alt="postgresql logo"  />
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg"              height="70" width="80" alt="MySQL logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"                        height="55" alt="azure logo"  />
   <img src="https://github.com/user-attachments/assets/44c18a37-1f9b-4439-89da-cdc9f51a45e7"                        height="55" alt="AWS logo"  />
